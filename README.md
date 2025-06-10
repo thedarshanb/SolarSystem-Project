@@ -16,11 +16,13 @@
 
 ## 📸 Preview
 
-![Screenshot 2025-06-09 221127](https://github.com/user-attachments/assets/310e57f6-73c5-418c-94bf-e784b2cef08b)
+![Screenshot 2025-06-09 221127](https://github.com/user-attachments/assets/ed9c4bf3-3baa-4f41-a307-054ab128db39)
+
+
  <!-- Replace with your actual screenshot file name -->
 
 ##  Live Demo
 
-[🔗 Click here to explore](https://your-github-username.github.io/your-repo-name/)
+[🔗 Click here to explore](https://thedarshanb.github.io/SolarSystem-Project/template.html)
 
 
